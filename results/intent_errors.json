@@ -1,0 +1,794 @@
+[
+  {
+    "text": "Un grupo de cuatro madres de alumnos del CEIP President Salvans del barrio de Can Palet (Tarrasa) han denunciado la alarmante falta de integración de algunos niños que pretenden imponer sus costumbres al resto. Denuncian asimismo el trato de favor que rec",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Esto es el PSOE \"AGARRENSE LOS PANTALONES\" Juan Manuel Serrano, el exjefe de gabinete de Sánchez en el PSOE , se ha gastado 250.000 euros en Enchufes en Correos. Y se ha liado. PP y Cs ponen el grito en el cielo",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Oye Siri, la UNESCO afirma que eres machista Según un informe de la Organización de Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO), la mayoría de asistentes digitales detentan un carácter sumiso y servil, lo que, sumado a que son dis",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9858877062797546
+    }
+  },
+  {
+    "text": "Cerca de un millón de pensionistas que aman de todo corazón a España siguen indecisos ante la irresistible oferta de VOX y su programa para desvalijarles “por la Patria”. Los pensionistas patriotas reconocen que valoran enormemente la propuesta de Abascal",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Cinco días después del arranque del Mundial ha tenido lugar la primera pelea entre ultras. En Moscú, Polonia jugará contra Senegal. Allí, decenas de ultras rusos se han enfrentado con ultras polacos.",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Las medidas económicas que, hasta ahora, ha anunciado el Gobierno del PSOE para favorecer a los inmigrantes comprometen cerca de 1.100 millones de euros extra en gasto público. El pasado viernes, los socialistas anunciaron su intención de restaurar la tar",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Quiero saber si el asunto de las vacunas afecta a la aparición de autismo o de síndrome de Asperger. Gracias",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9997649788856506
+    }
+  },
+  {
+    "text": "La relación definitiva de beneficiarios, así como el listado de excluídos, fueron publicados el pasado 21 de octubre en el BOCM 253 Orden de 20 de octubre de la Consejería de Transportes, Vivienda e Infraestructuras. En este sentido, se da respuesta al pr",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Todos lo hacemos. Ricos, pobres, jóvenes, viejos, reyes o hasta el Papa. De tirarse pedos nadie se escapa. Es una función natural perfectamente normal y necesaria para nuestro cuerpo; sin embargo, hay pocas cosas que estén tan socialmente estigmatizadas c",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9994864463806152
+    }
+  },
+  {
+    "text": "Roban a fiscales que acusan al PP, desaparecen documentos de juzgados relacionados con el PP, destruyen discos duros en la sede del PP, fallecen accidentalmente o por ‘suicidio’ testigos e implicados del PP, se produce un incendio en sedes judiciales con",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9999982118606567
+    }
+  },
+  {
+    "text": "*Dr. Rafael Zepeda Ramos, pediatra* Un coche estacionado a la sombra durante el día con las ventanas cerradas puede contener de 400-800 mg. de Benceno. Si está aparcado fuera bajo el sol a una temperatura superior a 16º C., el nivel de Benceno subirá a 20",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9999409914016724
+    }
+  },
+  {
+    "text": "Un joven de Murcia identificado como AJH fue detenido por llamar al domicilio particular de un alto ejecutivo de Jazztel una media de cuatro veces al día durante un año, según las propias palabras del acosado: “para que le propusiera alguna rebaja de su f",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9977585077285767
+    }
+  },
+  {
+    "text": "La niña Greta Thunberg es financiada por George Soros",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.5283840298652649
+    }
+  },
+  {
+    "text": "El Partido Popular se ha convertido en una organización criminal. Y no lo decimos nosotros, lo ha setenciado el juez de la Audiencia Nacional encargado de la trama Gürtel que ha condenado a la organización conservadora por un delito de partícipe a título",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El Juzgado de Instrucción 1 de Valverde del Camino (Huelva) ha admitido a trámite la petición realizada por Miguel Rivera, abogado defensor de Bernardo Montoya, en prisión preventiva por la muerte de la joven zamorana Laura Luelmo en El Campillo (Huelva),",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.999562680721283
+    }
+  },
+  {
+    "text": "La escuela de arte y diseño Massana, asociada a la Universidad Autónoma de Barcelona y dependiente de la Generalitat de Cataluña ha colgado una estelada del despacho del profesorado. La politización ejercida sobre las aulas a todos los niveles en Cataluña",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9999997615814209
+    }
+  },
+  {
+    "text": "En la plaza de la Constitución de Gerona, rebautizada como plaza del 1 de octubre de 2017, se han instalado obras de pretensión artística que no dejan de ser sino propaganda separatista del referéndum ilegal del 1-O y de los acontecimientos que se sucedie",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.5633648633956909
+    }
+  },
+  {
+    "text": "Compañeros!!! IMPORTANTE!!! Acabo de encontrar esto en la página de Podemos: Viernes 20 a las 19:00 manifestación en la sede del PSOE, Ferraz 70,Madrid. Máxima difusión ! Los podemitas quieren disfrazarse de socialistas para montar un pollo el vienes 20 d",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "La última de Podemos. El partido de Pablo Iglesias ha registrado una iniciativa en el Congreso que contempla una renta de 'garantía de suficiencia’ para personas sin ingresos. O lo que es lo mismo: recupera la famosa ‘renta mínima garantizada’, la medida",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9999023675918579
+    }
+  },
+  {
+    "text": "Frank Hoogerbeets y sus predicciones este investigador realizó un estudio en el pronóstico de los terremotos en un periodo de 16 meses y obtuvo los siguientes resultados. ¿Es posible que ciertas alineaciones planetarias pueden causar grandes terremotos en",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Primer detenido en Avila por tener placas fotovoltaicas para autoconsumo. Un vecino de Arevalo (Avila) ha sido puesto hoy a disposicion judicial tras incautarle la Guardia Civil dos potentes placas fotovoltaicas instaladas en el tejado se su vivienda, ale",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9986153841018677
+    }
+  },
+  {
+    "text": "Ahora Madrid, la agrupación de electores de izquierdas encabezada por la ex jueza Manuela Carmena, se alzará probablemente con la alcaldía de la capital de España. Su pactado acuerdo de estabilidad con el PSOE, a imagen y semenjanza del 36, creará un nuev",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "La vicepresidenta del Gobierno y ministra de la Presidencia, Relaciones con las Cortes e Igualdad, Carmen Calvo, ha propuesto hoy una reforma del Código Penal y de la Ley de Enjuiciamiento Criminal para garantizar que los tipos penales no se pongan \"en ri",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9999995231628418
+    }
+  },
+  {
+    "text": "El gabinete central de la policía penal de Finlandia también ha abierto una investigación sobre el posible espionaje al president en el exilio, Carles Puigdemont, por parte del CNI español, cuando visitó este país, antes de ser detenido a la vuelta al pas",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "No se que pensareis al ver la clientela que inunda Mercadona en Figueres el día de la inauguración",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.999998927116394
+    }
+  },
+  {
+    "text": "Justo cuando se cumple un año del asesinato de Víctor Laínez, el legionario salvajemente agredido en Zaragoza por Rodrigo Lanza por llevar unos tirantes con la bandera de España, la tragedia estuvo a punto de repetirse durante la noche de este jueves en u",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9951155185699463
+    }
+  },
+  {
+    "text": "El presidente de la sección española de Amnistía Internacional (AI), Alfonso López Borgóñez, ha explicado que su organización no considera a ETA una banda terrorista porque, según ha dicho, no existe un acuerdo internacional sobre la definición del concep",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9999980926513672
+    }
+  },
+  {
+    "text": "Hoy en día, según el National Cancer Institute, \"varios estudios demográficos muestran que existe una relación entre el aumento del consumo de ajo y una reducción en el riesgo de ciertos tipos de cáncer, como los de estómago, colon, esófago, páncreas y ma",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9983232617378235
+    }
+  },
+  {
+    "text": "Las situación económica actual ha retrasado la edad de las madres primerizas. De los 25 años, las mujeres han pasado a concebir el primer hijo a los 40. Las condiciones laborales y económicas no sólo afecta a la cesta de la compra. También afecta al entor",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.5138298869132996
+    }
+  },
+  {
+    "text": "Las compañías eléctricas han conseguido finalmente que el Gobierno acepte una de sus históricas reclamaciones y acaban de obtener la titularidad del 100 % del agua de lluvia que caiga sobre el territorio español, salvo el pequeño porcentaje de líquido que",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9999849796295166
+    }
+  },
+  {
+    "text": "Esto es lo que sucede cuando se legaliza el aborto. Pareja liberal abortó a su hijo hace una semana y decidieron momificar al feto para animar a sus amigos a unirse a la causa. Lamentablemente la situación actual de nuestra sociedad.",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El sacerdote de la pequeña población cántabra de Renedo de Iguña ha sido expulsado de su parroquia tras una votación popular realizada el pasado miércoles en el Ayuntamiento de la localidad. Al parecer el párroco había creado malestar en el pueblo tras ha",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9992548823356628
+    }
+  },
+  {
+    "text": "Los hechos ocurrieron la mañana de ayer en el conocido Parque de la Naturaleza de Cabarceno en Cantabria cuando un grupo de ancianos procedentes de Palencia se encontraban visitando el parque durante su viaje del IMSERSO. Cuando el grupo de ancianos estab",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "En efecto, con la apertura del \"Hermano comestible\", Tokio se convirtió en la primera ciudad del mundo en la que los tejidos de los seres humanos forman parte de la carta del menú, esto gracias a la legislación japonesa, la cual desde hace tres años permi",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.503433883190155
+    }
+  },
+  {
+    "text": "Arabia Saudita castigará con la pena capital la posesión de perros en las casas. Sólo se aceptarán los canes para funciones de caza o de vigilancia en algunas residencias. El Presidente de la Comisión para la Promoción de la Virtud y la Prevención del Vic",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9999998807907104
+    }
+  },
+  {
+    "text": "Los servicios de emergencia no han podido llegar a tiempo por culpa de los CDR que cortaban el tráfico...",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9999980926513672
+    }
+  },
+  {
+    "text": "Los nueve detenidos están siendo investigados y por el momento, siete de ellos no han podido aún comunicar con sus abogados. La Fiscalía mantiene la acusación por terrorismo contra los nueve detenidos el pasado lunes, pero acaba de retirar las acusaciones",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "La Dirección General de Tráfico (DGT) ha anunciado la compra de 62 camiones radares que empezarán a vigilar las carreteras españolas a partir de la operación Semana Santa en busca de infractores. Tras las pruebas realizadas de estos camiones en la ciudad",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Un estudio pionero, realizado por nefrólogos pertenecientes a la Sociedad Española de Nefrología (S.E.N.), aborda los riesgos de automedicarse con este tipo de fármacos. Médicos de Atención Primaria advierten sobre su uso. Los medicamentos genéricos -sin",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9999972581863403
+    }
+  },
+  {
+    "text": "Lío de los gordos con uno de los jugadores con más futuro para el club blanco. El futbolista noruego Martin Odegaard, considerado uno de los máximos exponentes del Real Madrid de futuro que planea Florentino Pérez, se ha visto indirectamente relacionado c",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Un ataque aéreo de Estados Unidos contra un campo de entrenamiento de Al-Qaida en Siria ha causado la muerte de más de 100 miembros del grupo yihadista, según ha confirmado este viernes un funcionario de Defensa estadounidense. Dicho funcionario, que ha",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Un 'conjuro de amor' para recuperar a su pareja consistente en una piña rellena de objetos dentro de una bolsa negra abandonada junto a una vía del tren en Alicante ha acabado con la detención de un hombre de 38 años, retrasos en ocho convoyes y una orden",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "LA FOTO DE LA VERGÜENZA Este es el interior de los Juzgados de Violencia sobre la Mujer en Madrid, concretamente el hueco de la escalera.",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Lo que empezó según parece como una broma ha acabado con dos monaguillos gallegos pasando la noche en el calabozo tras ser pillados metiendo marihuana en el botafumeiro de la Catedral de Santiago de Compostela. Al no ser un año jacobeo, ya que el 25 de Ju",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El más grave problema que tendrá que afrontar a corto plazo el Gobierno de Mariano Rajoy es asegurar las pensiones, cuya hucha ha sido esquilmada y no podrá afrontar la paga extraordinaria de 2017. O bien se reducen las pensiones –en Grecia han bajado el",
+    "intent": "falsa",
+    "intent_prediction": {
+      "name": "verdadera",
+      "confidence": 0.9537108540534973
+    }
+  },
+  {
+    "text": "Celebra hoy una misa en la Basílica de San Pedro en el sexto aniversario de su viaje a LampedusaEn plena crisis migratoria , el Papa celebrará hoy una misa en la Basílica de San Pedro por los inmigrantes y en defensa de sus rescatistas, coincidiendo con",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9462246298789978
+    }
+  },
+  {
+    "text": "La consejera de Agricultura, Ganadería, Pesca y Desarrollo Sostenible, Carmen Crespo, ha exigido contundencia al Gobierno para que garantice la libre circulación de mercancías a través de las carreteras en la frontera con Francia, cuyo bloqueo ha ocasio",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.5970304012298584
+    }
+  },
+  {
+    "text": "Se desmorona el máximo apoyo de Maduro. Cada vez se producen más abandonos en el ejército...Se desmorona el máximo apoyo de Maduro. Cada vez se producen más abandonos en el ejército venezolano. Estos militares escapan a Colombia y Brasil huyendo de una si",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El escritor, traductor y poeta argentino Leopoldo Brizuela, autor de obras como las novelas Inglaterra. Una fábula y Lisboa. Un melodrama, ha muerto hoy martes en Buenos Aires a los 55 años, según informan varios medios argentinos.",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9999942779541016
+    }
+  },
+  {
+    "text": "El cuerpo de Yelena Grigoriyeva fue hallado con múltiples puñaladas y signos de estrangulamientoLa destacada activista rusa a favor de los derechos del colectivo LGBT Yelena Grigoriyeva fue asesinada el domingo cerca de su vivienda en la ciudad de San Pet",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Parece sensato seguir las recomendaciones actuales con respecto al consumo de carne. Estas no plantean eliminar la carne de nuestra dieta, sino moderar el consumo de carne roja y procesada (dos o tres veces a la semana)",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "La Comisión Europea está pendiente del conflicto por el agua que se vive en el entorno de Doñana desde principios de esta década. Cientos de pozos ilegales extraen agua sin control del acuífero del que vive el emblemático espacio protegido para alimentar",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9996484518051147
+    }
+  },
+  {
+    "text": "Un hombre armado que lanzó bombas incendiarias contra un centro detención de inmigrantes en Tacoma , en el estado de Washington, murió tras ser tiroteado por agentes de la Policía, informó esa institución. Las autoridades señalaron que el hombre incendió",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.997031569480896
+    }
+  },
+  {
+    "text": "El fallo, descubierto por Facebook, afecta a dispositivos con sistema operativo Android e iOS Facebook ha descubierto una vulnerabilidad crítica en WhatsApp que afecta tanto a dispositivos Android como iOS y que permite que los hackers puedan robar inf",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9999786615371704
+    }
+  },
+  {
+    "text": "Stefan Balliet, detenido por el ataque a la sinagoga de Halle, que se saldaba ayer con dos víctimas mortales y varios heridos graves, se grabó un vídeo de 35 minutos donde señalaba a los judíos como «la raíz de los problemas» de Occidente.",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.999799907207489
+    }
+  },
+  {
+    "text": "AYER FUE el Orgullo. Que así, con O mayúscula o incluso sin ella, no necesita en español de España más agregados para decir que se trata del Orgullo Gay . O, más precisamente, el Orgullo LGBT, Lesbiano Gay Bisexual Transgénero. Grupos que pasaron tanto t",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9999616146087646
+    }
+  },
+  {
+    "text": "Los brotes de sarampión continúan propagándose rápidamente en todo el mundo, lo que supone que \"millones de personas en todo el mundo en riesgo de contraer la enfermedad\", según los últimos informes preliminares, \"provisionales e incompletos\" , proporcion",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Existe un lugar en Madrid donde las africanas tienen su propio lugar de encuentro. A él acuden mujeres de varios países con un objetivo común: \"empoderarse y saltar las barreras\" que existen en una sociedad que todavía las mira \"con extrañeza\", cuenta N",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9926642179489136
+    }
+  },
+  {
+    "text": "La gran estrella de la música ranchera Vicente Fernández rechazó recibir un trasplante de hígado por si el donante era \"homosexual o drogadicto\". Así lo comentó en una entrevista en el programa Primera mano, de la cadena Imagen Televisión. \"Estando en Ho",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9914862513542175
+    }
+  },
+  {
+    "text": "El grupo rodea al joven que viste camiseta amarilla y tras amenazarlo, llega el puñetazo. Son seis contra uno, contra un joven italiano de 24 años que tras la paliza termina con la cara destrozada. El joven que denuncia que antes de ser agredido, recibió",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9999998807907104
+    }
+  },
+  {
+    "text": "El individuo lanzó bengalas contra vehículos y edificios y toda apunta a que quería evitar la deportación de los inmigrantes Un individuo de 69 años armado y que atacó un centro federal de internamiento de inmigrantes de Tacoma, a las afueras de Seattl",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El Mallorca se llevó un tesoro de Balaídos (2-2), el primer punto que obtiene fuera de su feudo en lo que va de campeonato le permite seguir fuera de puestos de descenso. Al octavo intento sumó el cuadro insular, en un partido áspero, pleno de friccione",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9884085059165955
+    }
+  },
+  {
+    "text": "Si alguien sigue la actualidad municipal y las promesas electorales en un periodo superior a los cuatro años, es muy probable que afronte el debate de los candidatos alicantinos con una sensación de déjà vu. Existen cuatro o cinco teclas comunes (a saber",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El Instituto Aragonés de la Mujer (IAM) y la Universidad de Zaragoza, a través de la Cátedra sobre Igualdad y Género, han convocado la IV edición del Premio de Investigaciones Feministas que tiene como objetivo la promoción de la igualdad, erradicación y",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9867278933525085
+    }
+  },
+  {
+    "text": "Ciudadanos se ha puesto hoy en contacto con los otros grandes partidos nacionales para proponerles varias medidas de ahorro electoral de cara a la convocatoria repetida del próximo 10 de noviembre. En primer lugar, Cs defiende la reducción de gastos elect",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9999998807907104
+    }
+  },
+  {
+    "text": "La Policía Nacional ha detenido en Granada a un español de 51 años que se presentaba sin serlo como un abogado y asesora expertos en trámites de extranjería y que cobraba para realizar empadronamientos ilegales que provocaron Según ha informado en un comu",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9999935626983643
+    }
+  },
+  {
+    "text": "El lugar en el que ha sido hallado el cuerpo de la mujer muerta. Massimiliano MinocriLa mujer hallada muerta en una calle en Barcelona falleció fruto de golpes en la cabeza y estrangulada, según la autopsia que se le ha practicado al cadáver. El cuerpo ví",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9885537624359131
+    }
+  },
+  {
+    "text": "Cada 22 de diciembre, con motivo del Sorteo Extraordinario de Navidad, millones de personas... Cada 22 de diciembre, con motivo del Sorteo Extraordinario de Navidad, millones de personas escuchan palabras como alambre, copa, lira, paraguas, tabla, tolv",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El alcalde en funciones de Las Palmas de Gran Canaria, Javier Doreste (Podemos), ha defendido este martes que querer llamar de otra forma a la violencia machista es \"alinearse con los asesinos de las mujeres\". Así se ha manifestado el primer teniente de a",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9982461929321289
+    }
+  },
+  {
+    "text": "A mí hay cosas que no me parecen mal, como que mi novia me coja el móvil o yo a ella, nos dimos las contraseñas hace tiempo y nos miramos las cosas de vez en cuando Mientras Alberto dice eso, su hermana grita desde otra habitación de la casa, con Nathy Pe",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El MeToo francés también empezó con un tuit. El 13 de octubre de 2017, en plena oleada de denuncias de acoso sexual tras el estallido del escándalo Harvey Weinstein, la periodista francesa afincada en Nueva York Sandra Muller escribió en la red social un",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Manifestación frente al Palacio de Justicia de Pamplona por el modelo educativo. EUROPA PRESSEl nuevo Gobierno navarro quiere devolver la paz a las aulas y a la Administración pública después de cuatro años en los que la política lingüística ha estado en",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9146462678909302
+    }
+  },
+  {
+    "text": "La construcción comienza a resurgir en las comarcas castellonenses pero la obra nueva sigue sin atender la demanda existente.Al menos, así se extrae de las estadísticas que publica el Ministerio de Fomento. Durante el primer trimestre, en la provincia de",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El renacer de Whitney Houston: preparan una gira como holograma, un disco inédito y un musical",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El presidente del Gobierno en funciones Pedro Sánchez se reunirá en La Moncloa la próxima semana con los líderes de PP, Ciudadanos y Unidas Podemos para analizar la situación política tras las elecciones del 28-A, según informan fuentes del Gobierno este",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9999797344207764
+    }
+  },
+  {
+    "text": "Los cacaos solubles forman parte del desayuno de muchos niños y adultos. ¿Cuáles son bombas de azúcar? ¿Son mejores los que llevan avena o magnesio? ¿Cuál es la opción más sana? Nuestra nutricionista responde.",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Siete años después de su muerte, los gestores de su patrimonio planean un disco de temas inéditos, una gira de conciertos y hasta un musical.",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.8955023884773254
+    }
+  },
+  {
+    "text": "Se llamaba Alejandro, estudiaba historia, estaba de Erasmus y había venido a su pueblo para pasar... Se llamaba Alejandro, estudiaba historia, estaba de Erasmus y había venido a su pueblo para pasar las fiestas. Sus amigos no se pueden creer que la prime",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El PP y Ciudadanos criticaron ayer la gestión de la Oficina Anticorrupción de Baleares que, según estas formaciones, está inoperativa y no esta cumpliendo con ninguno de los objetivos marcados. Para el PP, la Oficina «no es más que un chiringuito creado p",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9999996423721313
+    }
+  },
+  {
+    "text": "Tras dos años como niño soldado y con secuelas psicológicas terribles, el sueño de François es volver a la escuela. Pero es difícil deshacerse del estigma de asesino. Nadie quiere que su hijo vaya a la escuela con un exguerrillero",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El Tribunal Supremo ha descartado condenar por un delito de rebelión consumada a los líderes independentistas en el juicio del procés. Este delito habría supuesto para los reos penas de entre 15 y 25 años de cárcel",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.6756702065467834
+    }
+  },
+  {
+    "text": "Cansado de leer y escuchar que las personas mayores son más propensas a creerse las fake news y que eso las hace votar mal según algunos, el tuitero Flugbeiler ha compuesto un single con el que pretende \"parodiar una serie de ideas que se están populariz",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "En estos días, ha vuelto a revivir el ya conocido «video de Martinelli»Los bulos van y vienen. Y en WhatsApp aún más. La aplicación de mensajería instantánea es experta en revivir falsos peligros y crear una alerta innecesaria . Por eso, como siempre hace",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "El Govern de la Generalitat ha dado este jueves el primer paso para calcular un salario mínimo de referencia (SMR) para Cataluña diferenciado del salario mínimo interprofesional (SMI) aprobado por el Gobierno a finales de 2018. Así lo ha anunciado en rued",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9829893708229065
+    }
+  },
+  {
+    "text": "La semana de Andrea El Departamento de Scouting del RCD Espanyol de Barcelona está integrado por siete personas. Somos cinco ojeadores con base en Barcelona, uno en Galicia y otro en Sevilla , repasa antes de contar cómo es una semana normal de trabajo.",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.5221734046936035
+    }
+  },
+  {
+    "text": "El militante político argelino y defensor de derechos humanos Kamel Eddín Fekhar, encarcelado desde marzo, ha muerto en la cárcel tras 50 días en huelga de hambre.",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.6786397695541382
+    }
+  },
+  {
+    "text": "Las protestas contra la construcción del telescopio TMT (Thirty Meter Telescope) en el volcán Mauna Kea en Hawai han provocado que la isla canaria de La Palma vuelva a aparecer como sede alternativa. Así se desprende de la respuesta de los responsables d",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.960722804069519
+    }
+  },
+  {
+    "text": "Najwa Nimri desvela los detalles de su nuevo personaje en la serie de Netflix 'La casa de papel'.",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9999982118606567
+    }
+  },
+  {
+    "text": "Dos periodistas birmanos de la agencia Reuters fueron liberados este martes al recibir un perdón del presidente de su país tras pasar año y medio en prisión por revelar una matanza del Ejército contra la minoría musulmana rohingya. Wa Lone y Kyaw Soe Oo",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Un niño refugiado, de 5 años, fue atropellado por un camión cerca del campamento de migrantes de Moria, en la isla griega de Lesbos, según un comunicado publicado por la policía helena. Según el mismo comunicado, el niño, de origen afgano, estaba durmiend",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "\"Su tren no ha sido incluido en los servicios mínimos\". La frase está escrita en un correo de Renfe que José Manuel Gómez y Marina Salas han recibido sobre la huelga de este miércoles por la que se han cancelado 325 trenes AVE, larga y media distancia. \"E",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9501400589942932
+    }
+  },
+  {
+    "text": "Esta joven de 21 años vive en Granada y combate la anorexia en Ciudad Real por falta de unidades especializadas en este trastorno en toda Andalucía",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9853911399841309
+    }
+  },
+  {
+    "text": "Los jóvenes de entre 19 y 24 años dedican menos ingresos a viajar, un 15% frente a los adultos de entre 35 y 44 años, según Bnext¿Tarjeta o efectivo? Esta es una de las dudas que pueden surgir cuando viajamos a un país extranjero. Un 59% de los españoles",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9464340806007385
+    }
+  },
+  {
+    "text": "La cantante llevaría días ingresada tras ser intervenida de urgencia y haber pasado varios días en la UCI, según Kike Calleja. Podría recibir el alta hoy María Jiménez denuncia: \"A mí también me follaron gratis\" María Jiménez reaparece en público La mism",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9963253140449524
+    }
+  },
+  {
+    "text": "La provincia de Madrid es la que tiene los alquileres más caros de España, seguida de la de Barcelona. En la primera los inquilinos pagan como media 819 euros mensuales y en la segunda, 769 euros. Es una de las principales conclusiones del Observatorio de",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9999990463256836
+    }
+  },
+  {
+    "text": "Feliciano López se despide de Roland Garros en el duelo de los récords",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Encontramos a los enfermos que se tratan el cáncer con máquinas donadas por Amancio Ortega a la sanidad pública. Hasta 100.000 en España. https://t.co/L12I1Qca1q",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.5985053777694702
+    }
+  },
+  {
+    "text": "En vídeo, la detención del presunto colaborador del Estado Islámico. POLICÍA NACIONALLos agentes de la Comisaría General de Información de la Policía Nacional seguían los pasos de E.M.A., marroquí de 25 años, desde 2016. Entonces fue investigado por perte",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.999984860420227
+    }
+  },
+  {
+    "text": "DE UN TIEMPO a esta parte los arranques de campaña y el estreno de la cartelería vienen acompañados con un sondeo con la rúbrica de Tezanos . Lo que supone que en lugar de fijarnos en los rostros que aparecen en el papel nos volquemos en la interpretació",
+    "intent": "verdadera",
+    "intent_prediction": {
+      "name": "falsa",
+      "confidence": 0.9999735355377197
+    }
+  }
+]
